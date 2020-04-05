@@ -18,7 +18,7 @@ const TextContainer = ({ users }) => (
                 <Tools/>
                 <WhiteBoard />
               </div>
-              <History/>
+              <History />
             </div>
         )
         : null
